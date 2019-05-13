@@ -5,5 +5,10 @@
   "main": "src/index.js",
   "repository": "https://github.com/Squishy123/simple-room-auth.git",
   "author": "squishy123 <christian.gnaw@gmail.com>",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.16.4",
+    "redis": "^2.8.0",
+    "socket.io": "^2.2.0"
+  }
 }
